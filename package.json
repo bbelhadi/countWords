@@ -1,0 +1,16 @@
+{
+    "name": "countWords",
+    "version": "1.0.0",
+    "description": "pure tiny framework to count word",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "node tests/lib.test.js"
+    },
+    "keywords": [
+        "manomano",
+        "countword"
+    ],
+    "author": "bbelhadi@gmail.com",
+    "license": "ISC"
+}
