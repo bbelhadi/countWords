@@ -13,4 +13,4 @@ just include `lib.js` in your project
 
 ## Tests
 
--   `npm run tests`
+-   `npm run test` or `yarn test`
